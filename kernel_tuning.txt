@@ -1,1 +1,4 @@
 kernel optimization settings
+optimization step 1
+optimization step 2
+optimization step 3
