@@ -1,1 +1,4 @@
+HEAD
 server_timeout=45
+server_timeout=60
+feature/config-update
